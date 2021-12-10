@@ -1,0 +1,4 @@
+1. I have created blog page it has three pages.In that home page click on the post article button it take
+us to the post aticle form where user able to submit the articles.
+2. Once you submit the post, the alert shown saying your post is successful and it is redirected to the home page
+In that your aticles shown in the home page using local storage and the post never disappears
